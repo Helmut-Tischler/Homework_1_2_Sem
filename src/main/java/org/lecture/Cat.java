@@ -21,9 +21,6 @@ public class Cat {
     private Breed breed;
 
     private int age;
-    private double height;
-    private double weight;
-    private boolean barfed;
 
     /**
      * Output to CatDriverClass
